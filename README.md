@@ -1,7 +1,7 @@
 # DISCRETE ELEMENT METHOD IMPLEMENTATION OF THE SINGING SAND PHENOMENON FOR USE IN SOUND SYNTHESIS
 ### A project by Mike McDonald
 ### Done for my Electronic Production and Design capstone project at Berklee College of Music.
-### Associated paper available at [mote.moe/sand](https://mote.moe/sand)
+### Associated paper pending publishing
 This project was created using YADE 2023.02a and Python 3.11.2. Because this project is
 a collection of scripts that interact with different libraries, there isn't necessarily a
 license outside of "don't copy what I've written exactly." I have no interest in protecting
