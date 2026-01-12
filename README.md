@@ -53,7 +53,7 @@ The file itself is separated into a couple sections:
 5. Function Definitions, where functions are defined to do with data collection and object movement
 
 ## sample_generation.py
-The process behind what happens in this file is better explained in [my paper](https://mote.moe). Because of this, I will only go over some important things:
+The process behind what happens in this file will be better explained in the paper. Because of this, I will only go over some important things:
 - There is a magic number on line 22 that *should* gel well with whatever values you throw at it, but just in case, it's based on the `PWaveTimeStep()` value taken from YADE
 - All `savePath` variables on lines 27-34 can point to different locations for each dataset if desired
 - The audio files will only be generated **after** the generated plot is closed
