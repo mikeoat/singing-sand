@@ -21,7 +21,7 @@ loop a section of the output file upon itself. The best place in the file to do 
 after the initial transient ends
 
 # SPECIFICATIONS
-The DEM simulation alone takes about 2 and a half days to run on a Debian Trixie Stable system
+The DEM simulation alone takes about 2 and a half days to run on a Debian Trixie system
 with an AMD Ryzen 7 5800X Processor, Nvidia GeForce RTX 2060 GPU with 6GB of VRAM, and 32GB of
 RAM. I decided to run the simulation with all 16 logical and physical cores of my processor,
 using `yade -j16 dune.py`.
