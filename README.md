@@ -11,9 +11,8 @@ the underlying principles of this project.
 1. Ensure at least YADE 2023.02a is installed along with Python 3.11.2
 2. Make desired edits to dune.py
 3. Run dune.py using YADE
-4. Ensure output data is as expected
-5. Run sample_generation.py
-6. Close output plot and listen to audio files!
+4. Run sample_generation.py
+5. Close output plot and listen to audio files!
 
 # AUDIO POST PROCESSING RECOMMENDATIONS
 The resonance produced by this simulation lasts for less than 500ms, so it would be wise to
